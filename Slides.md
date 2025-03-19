@@ -350,4 +350,4 @@ Thank you very much.
 ![w:340px](./img/qr-code.png)
 
 - online: https://christophdb.github.io/power-of-automation/.
-- pdf: https://github.io/christophdb/power-of-automation/slides/slides.pdf
+- pdf: https://github.com/christophdb/power-of-automation/blob/main/Slides.pdf
