@@ -217,7 +217,7 @@ section.scoped footer {
 
 section.first::before {
     content: '';
-    background-image: url('images/seatable-logo.jpg');
+    background-image: url('img/seatable-logo.jpg');
     display: block;
     position: absolute;
     top: 80px;
