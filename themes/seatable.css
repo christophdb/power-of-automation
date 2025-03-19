@@ -1,6 +1,6 @@
 /* @theme seatable */
 
-@import 'https://fonts.bunny.net/css?family=Roboto+Mono:400,700&display=swap';
+/* @import 'https://fonts.bunny.net/css?family=Roboto+Mono:400,700&display=swap'; */
 
 :root {
     background-color: #fff;
@@ -86,7 +86,7 @@ section.centered h1 {
     /*font-size: 3rem;*/
 }
 
-/* google fonts locally */
+/* local fonts */
 @font-face {
     font-family: 'Poppins';
     font-style: normal;
@@ -95,11 +95,43 @@ section.centered h1 {
     font-display: swap;
 }
   
-  @font-face {
+@font-face {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     src: url("./fonts/poppins-bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/roboto-regular.woff2") format("woff2");
+    font-display: swap;
+}
+  
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url("./fonts/roboto-bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto-Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/roboto-mono-regular.woff2") format("woff2");
+    font-display: swap;
+}
+  
+@font-face {
+    font-family: 'Roboto-Mono';
+    font-style: normal;
+    font-weight: 700;
+    src: url("./fonts/roboto-mono-bold.woff2") format("woff2");
     font-display: swap;
 }
   
