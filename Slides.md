@@ -22,7 +22,7 @@ This presentation highlights the transformative power of workflow automation, pa
 Christoph Dyllick-Brenzinger
 March 17th, 2025, LMU München
 
-![bg right auto](./images/image_434.png)
+![bg right auto](./img/image_434.png)
 
 ---
 
@@ -38,7 +38,7 @@ Two minutes later, I received a notification on my smartphone with a detailed li
 Welcome to the world of automation, where even the shopping process is revolutionized.
 -->
 
-![bg](./images/supermarket.jpg)
+![bg](./img/supermarket.jpg)
 
 ---
 
@@ -141,7 +141,7 @@ Typicall structure of an automation:
 
 # Typical structure of an automation
 
-![bg w:1200px](./images/typical-automation.png)
+![bg w:1200px](./img/typical-automation.png)
 
 ---
 
@@ -169,7 +169,7 @@ Typicall structure of an automation:
   - Form submission
 </span>
 
-![bg right 60%](./images/n8n_trigger.png)
+![bg right 60%](./img/n8n_trigger.png)
 
 ---
 
@@ -183,7 +183,7 @@ Typicall structure of an automation:
 
 </span>
 
-![bg right 80%](./images/n8n-filter.png)
+![bg right 80%](./img/n8n-filter.png)
 
 ---
 
@@ -235,7 +235,7 @@ Typicall structure of an automation:
 
 # Send Daily Birtday Reminders from Google Contacts to Slack
 
-![w:1100px](./images/n8n_workflow_birthday_reminder.png)
+![w:1100px](./img/n8n_workflow_birthday_reminder.png)
 
 ---
 
@@ -307,7 +307,7 @@ I think, we could follow the advise of bill gates who stated
 
 ― Bill Gates
 
-![bg right w:400px](./images/bill_gates.jpg)
+![bg right w:400px](./img/bill_gates.jpg)
 
 ---
 
@@ -325,7 +325,7 @@ And n8n is the perfect tool to do that.
 
 ― Christoph Dyllick-Brenzinger
 
-![bg right w:400px](./images/christoph_dyllick_brenzinger.jpg)
+![bg right w:400px](./img/christoph_dyllick_brenzinger.jpg)
 
 ---
 
@@ -347,7 +347,7 @@ Thank you very much.
 
 # Interested in this presentation?
 
-![w:340px](./images/qr-code.png)
+![w:340px](./img/qr-code.png)
 
 - online: https://christophdb.github.io/power-of-automation/.
 - pdf: https://github.io/christophdb/power-of-automation/slides/slides.pdf

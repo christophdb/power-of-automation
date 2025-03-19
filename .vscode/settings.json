@@ -1,5 +1,5 @@
 {
     "markdown.marp.themes": [
-        "./seatable.css"
+        "./themes/seatable.css"
     ]
 }
