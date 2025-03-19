@@ -20,7 +20,7 @@ This presentation highlights the transformative power of workflow automation, pa
 # The power of automation and how to control it.
 
 Christoph Dyllick-Brenzinger
-March 17th, 2025, LMU München
+March 19th, 2025, LMU München
 
 ![bg right auto](./img/image_434.png)
 
